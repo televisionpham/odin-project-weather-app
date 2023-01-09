@@ -1,0 +1,26 @@
+{
+  "name": "odin-project-weather-app",
+  "version": "1.0.0",
+  "description": "The Odin Project - JavaScript Course - Project: Weather App",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/televisionpham/odin-project-weather-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/televisionpham/odin-project-weather-app/issues"
+  },
+  "homepage": "https://github.com/televisionpham/odin-project-weather-app#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
